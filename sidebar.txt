@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mby:home|Door43 (mby)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mby|d43-mby repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mby/archive/master.zip|d43-mby.zip]]
+
+**Recent Changes**
+{{changes>ns = mby}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mby|Ethnologue data]]
+
